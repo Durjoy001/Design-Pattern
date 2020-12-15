@@ -1,0 +1,3 @@
+**High-level modules should not depend on low-level modules. Both should depend on abstractions.**  
+**Abstractions should not depend on details. Details should depend on abstractions.**  
+**Here is an example:** A program depends on Reader and Writer interfaces that are abstractions, and Keyboard and Printer are details that depend on those abstractions by implementing those interfaces. Here CharCopier is oblivious to the low-level details of Reader and Writer implementations and thus you can pass in any Device that implements the Reader and Writer interface and CharCopier would still work correctly.  
