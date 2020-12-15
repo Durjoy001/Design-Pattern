@@ -3,7 +3,7 @@
     }   
     public class Car extends Vehicle  
     { 
-       void Drive() {....}  
+       public void Drive() {....}  
     }  
     public class Plane extends Vehicle  
     {  
