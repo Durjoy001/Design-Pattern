@@ -19,3 +19,7 @@ Find all places where the method is used and verify that it’s called from the 
 
 **[Here we solve the problem](https://github.com/Durjoy001/Design-Pattern/blob/main/Refused%20Bequest/Code%20solving%20the%20problem%20of%20Refused%20Bequest.java)
 by using push down method.Remove the method or property from Base class and move it to that subclass where it fits.**  
+
+**Push down method UML diagram:**    
+
+![PUSH DOWN](https://github.com/Durjoy001/Design-Pattern/blob/main/Refused%20Bequest/Refused%20Bequest%20solve.png)  
