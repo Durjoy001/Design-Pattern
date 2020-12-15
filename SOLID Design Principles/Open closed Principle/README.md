@@ -12,3 +12,7 @@ If we do not follow Open closed principle during a requirement enhancement in th
 * Step 2 above is a costly process to adapt for any organization.  
 * Not following the Open Closed Principle breaks the SRP since the class or function might end up doing multiple tasks.  
 * Also, if the changes are implemented on the same class, Maintenance of the class becomes difficult since the code of the class increases by thousands of unorganised lines.   
+
+**Example:**  
+**[We need to calculate areas of various shapes.](https://github.com/Durjoy001/Design-Pattern/blob/main/SOLID%20Design%20Principles/Open%20closed%20Principle/OCP%20Example%20Code1.java)**  
+**[We need to calculate value of Vehicle.](https://github.com/Durjoy001/Design-Pattern/blob/main/SOLID%20Design%20Principles/Open%20closed%20Principle/OCP%20Example%20Code2.java)**  
