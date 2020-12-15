@@ -28,4 +28,11 @@ These principles, when combined together make it easy for programmer to develop 
 **Solution to develop a successful application depends on** 
 * Architecture : choosing an architecture is the first step in designing application based on the requirements. Example : MVC, WEBAPI, MVVM..etc.  
 * Design Principles : Application development process need to follow the design principles.  
-* Design Patterns : We need to choose correct design patterns to build the software.  
+* Design Patterns : We need to choose correct design patterns to build the software. 
+
+**[:boom: kudvenkat](https://www.youtube.com/playlist?list=PL6n9fhu94yhXjG1w2blMXUzyDrZ_eyOme)
+[:boom: edureka](https://www.edureka.co/blog/solid-principles-in-java/)
+[:boom: educative](https://www.educative.io/edpresso/what-are-the-solid-principles-in-java)
+[:boom: dzone](https://dzone.com/articles/a-gentle-and-easy-to-grasp-introduction-to-solid-p)
+[:boom: Baeldung](https://www.baeldung.com/solid-principles)
+[:boom: Jrebel](https://www.jrebel.com/blog/solid-principles-in-java)**
