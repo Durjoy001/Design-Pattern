@@ -1,3 +1,6 @@
+//https://www.tutorialspoint.com/design_pattern/factory_pattern.htm
+//https://www.youtube.com/watch?v=pt1IbV1aSZ4
+
 package factorypattern;
 /**
  *
